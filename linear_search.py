@@ -11,3 +11,4 @@ if result:
     print("Element found")
 else:
     print("Element not found")
+    print("Thanks")
